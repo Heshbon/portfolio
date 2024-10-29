@@ -3,7 +3,7 @@ import './start.css';
 
 const Start = () => {
   return (
-    <div>start</div>
+    <section id='start'></section>
   )
 }
 
